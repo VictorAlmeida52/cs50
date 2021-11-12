@@ -13,6 +13,6 @@
     + [more](/pset1/mario)
 - [Problem Set 2: Arrays](/pset2)
   * [scrabble](/pset2/scrabble)
-  * readability
+  * [readability](/pset2/readability)
   * ceasar
-  * substitution
+  * [substitution](/pset2/substitution)
