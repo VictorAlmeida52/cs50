@@ -10,7 +10,7 @@
   * [credit](/pset1/credit)
   * mario
     + less
-    + [more](/pset1/mario/more)
+    + [more](/pset1/mario)
 - [Problem Set 2: Arrays](/pset2)
   * [scrabble](/pset2/scrabble)
   * readability
